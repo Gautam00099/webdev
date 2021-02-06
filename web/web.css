@@ -1,0 +1,19 @@
+
+.navbar li{
+
+    display: inline-block;
+    margin: auto;
+    text-decoration: none;
+    color: white;
+    padding: 1%;
+    left: auto;
+
+}
+
+.navbar{
+
+    background: black;
+    border-radius: 5mm;
+}
+
+

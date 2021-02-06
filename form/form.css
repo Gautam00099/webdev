@@ -1,0 +1,77 @@
+
+  
+  *{
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    body{
+
+        background-color: rgba(202, 236, 132, 0.767);
+    }
+
+    .container{
+
+        border: 2px solid rgb(24, 145, 50);
+        background-color: rgb(174, 241, 119);
+        box-shadow: 2px;
+        border-radius: 10px;
+        width: 600px;
+        height: 250px;
+        padding: 2%;
+        margin: 200px auto;
+
+    }
+
+    div{
+        
+        padding: 1%;
+    }
+
+    .item{
+        
+         width: 300px;
+         
+         color: black;
+         font-size: 20px;
+         margin: auto;
+    }
+
+    #submit{
+        width: 100px;
+       
+        margin: auto;
+
+    }
+
+    #btn{
+
+        border: 1px solid rgb(24, 145, 50);;
+        
+        font-size: 15px;
+        border-radius: 5px;
+        width: 100px;
+        padding: 6%;
+    }
+
+    #txt1, #txt2{
+
+        border: 2px solid green;
+        border-radius: 5px;
+        width: 300px;
+        padding: 1%;
+    }
+    #r1, #r2{
+
+        border: 2px solid green;
+        border-radius: 5px;
+    }
+
+    .rad{
+
+        display: inline;
+        padding: 20px;
+        
+    }
+
